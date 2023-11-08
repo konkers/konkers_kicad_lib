@@ -88,4 +88,9 @@
     (thermal_bridge_angle 45)
     (tstamp adcd952a-2ec2-4611-95ad-3e767b3f63fa)
   )
+  (model "${KONKERS_LIB_DIR}/3d/USON-8-1EP_3x2mm_P0.5mm_EP0.3x1.7mm.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

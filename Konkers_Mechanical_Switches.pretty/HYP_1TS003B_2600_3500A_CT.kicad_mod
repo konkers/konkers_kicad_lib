@@ -120,4 +120,9 @@
   (pad "MP" smd roundrect (at 2.3 -0.6) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
     (tstamp fb3b219e-7195-4d53-96b6-a6a9eb76e4bb)
   )
+  (model "${KONKERS_LIB_DIR}/3d/HYP_1TS003B_2600_3500A_CT.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

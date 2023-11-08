@@ -60,4 +60,9 @@
   (pad "2" smd roundrect (at 3.025 0) (size 2.35 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1640419948)
     (tstamp cc050ed7-feab-407a-8f88-eabf41e5d2e3)
   )
+  (model "${KONKERS_LIB_DIR}/3d/Inductor_SMD_7.0mm_6.7mm_2.8mm.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
